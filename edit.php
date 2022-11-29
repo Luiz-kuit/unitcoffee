@@ -46,7 +46,7 @@
   </head>
   <body>
     <div>
-        <p><img src="img/logo.png"></p>
+        <p><img src="img/logo.png" width="400px" height="400px"></p>
             <div class="content">    
                 <form action= "saveEdit.php" method="POST">
                    <h1>Editar Cadastro ☕</h1>

@@ -34,7 +34,7 @@
   </head>
   <body>
     <div>
-        <p><img src="img/logo.png"></p>
+        <p><img src="img/logo.png" width="400px" height="400px"></p>
             <div class="content">   
                 <h1>Cadastro ☕</h1>
                 <form action="formulario.php" method="POST">
